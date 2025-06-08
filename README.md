@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Magic-GPT<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about PHP<br>⚡ Fun fact: The first computer virus was created in 1982 by two Pakistani brothers, Amjad and Basit Farooq. It was called the "Pakistan Brain Virus."
+🙋 I’m looking to collaborate on Magic-GPT<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about PHP<br>⚡ Fun fact: The first computer virus was created in 1982 by two Pakistani brothers, Amjad and Basit Farooq. It was called the "Pakistan Brain Virus."
 
 
 ## 🌐 Socials:
