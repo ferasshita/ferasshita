@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/feras-shita) 
-[![X](https://img.shields.io/badge/X-%230077B5.svg?logo=x&logoColor=white)](https://x.com/ShitaFeras) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/ShitaFeras) 
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/shitaferas) 
 
 # 💻 Tech Stack:
