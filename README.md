@@ -20,5 +20,5 @@ When I am not tweaking backend code or running quantum simulations, I like to di
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferasshita/ferasshita/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/ferasshita/ferasshita/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
